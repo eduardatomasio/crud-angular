@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    text-align: center;
+}
+
+.header a {
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+}
+
+.header .logo {
+    max-height: 35px;
+
+}
+
+.header .title-group {
+    padding-left: 25px;
+}
+
+.header .title-group i {
+    padding-right: 5px;
+    padding-top: 3px;
+}
