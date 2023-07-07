@@ -14,11 +14,6 @@
       "id": 3,
       "name": "Air Jordan",
       "price": 1100.99
-    },
-    {
-      "name": "Top Coat",
-      "price": "12.05",
-      "id": 4
     }
   ]
 }
