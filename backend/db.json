@@ -1,19 +1,19 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Iphone 11 Pro Max",
-      "price": "9000.00"
+      "name": "Iphone X",
+      "price": "9000.00",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Notebook Mac",
-      "price": 12000
+      "name": "Top Coat",
+      "price": "12.09",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Air Jordan",
-      "price": "1100.00"
+      "name": "Ecobag",
+      "price": "65.90",
+      "id": 3
     }
   ]
 }
