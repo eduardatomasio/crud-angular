@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Iphone 11",
-      "price": 9000.89
+      "name": "Iphone 11 Pro Max",
+      "price": "9000.00"
     },
     {
       "id": 2,
@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Air Jordan",
-      "price": 1100.99
+      "price": "1100.00"
     }
   ]
 }
